@@ -1,5 +1,7 @@
 # Jumper-Man
 This is my first project that was built using Java. I used it as an opportunity to learn the programming language ahead of my transfer to Miami University. It is a 2D platformer that takes its assets from Super Mario Bros on the NES, however, the levels for the game are created by me and not taken from the original game. This project, in its size and time spent in development, pass Maze Runner on both accounts. This project was finished in December of 2018 before finals and I used it to get out of my Object Oriented Programming Class at Miami University. This project got additional updates after the v1.0 update in the form of bonus levels, extra content and a level editor that can be used to create custom levels. This project took hundreds of hours to build and many a sleepless night. In the end, I don't regret a thing.
 
-The changelog for this project is located [here on my website](http://alexdgray.com/pages/projects/jumperManLog.php) That log includes a detailed list of all changes made to the program.
+The changelog for this project is located [here on my website](http://alexdgray.com/pages/projects/jumperManLog.php) That log includes a detailed list of all changes made to the program. This also includes summaries of each version and screenshots from the development process!
 ![The main menu for Jumper Man v1.2](http://alexdgray.com//images/jumperMan/mainMenu.png)
+
+This project meant a lot to me, It was my first time playing around with Java in a standalone application and the very first time that I had ever used proper graphics and animations in an application. From my estimates, this project took several hundred hours over a span of four months in late 2018. But it truly was a real learning experiance that I will never forget.
